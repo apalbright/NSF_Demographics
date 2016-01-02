@@ -1,6 +1,6 @@
 # NSF_Demographics
 Data and code for "This Post Is Brought To You By The National Science Foundation."
-See: http://thelittledataset.com/2015/12/31/this-post-is-brought-to-you-by-the-national-science-foundation/
+http://thelittledataset.com/2015/12/31/this-post-is-brought-to-you-by-the-national-science-foundation/
 
 #To create visuals
 Simply clone the repo and run the R script "demographic_snapshots.R"!
